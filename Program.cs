@@ -12,6 +12,12 @@ bool tieneGorro = false;
 
 Console.WriteLine("Escribe tu nombre: ");
 nombre=Console.ReadLine();
+/*
+ * Este es un comentario de prueba
+ * 
+ * 
+ * 
+ * 
+ */
 
-
-Console.WriteLine("Mi nombre es: "+nombre+" mi edad es: "+edad+"mi altura es: "+altura);
+Console.WriteLine("Mi nombre es: "+nombre+" mi edad es: "+edad+" mi altura es: "+altura);
